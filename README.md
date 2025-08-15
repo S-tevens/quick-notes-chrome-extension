@@ -10,3 +10,4 @@ When you're ready, you can instantly download your notes as a .txt file for back
 - Works completely offline and stores data locally.
 
 Perfect for developers, students, or anyone who needs a quick scratchpad while browsing.
+
